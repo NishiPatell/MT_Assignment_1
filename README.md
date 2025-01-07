@@ -1,1 +1,1 @@
-# MT_Assignment_1
+This module covers the fundamentals of manual testing, including an introduction to software testing, why testing is important, testing objectives, testing activities, when to start and stop software testing, 7 key testing principles, software architecture, SDLC, how to create a use case diagram, and software testing methodologies (Waterfall, V-model, iterative incremental model, spiral, and agile model).
